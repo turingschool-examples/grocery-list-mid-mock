@@ -3,8 +3,9 @@
 }
 
 body {
+  background: #fff;
+  color: #391712;
   font-family: 'Bitter', serif;
-  background: #E35C48;
 }
 
 section {
@@ -27,7 +28,8 @@ label {
 }
 
 form {
-  background: #FA7F56;
+  background: #FFE4C7;
+  border-bottom: 5px solid #FFB669;
 }
 
 fieldset {
@@ -57,17 +59,19 @@ input {
   border: none;
   color: white;
   margin-top: 10px;
-  background: #FFB669;
+  background: #712E24;
+  transition-duration: .3s;
 }
 
 .grocery-list-form--submit:hover {
   background: #aaa;
   cursor: pointer;
-  background: #FFB669;
+  background: #E35C48;
 }
 
 .grocery-list {
-  background: #FFB669;
+  background: #FFE4C7;
+  border-bottom: 5px solid #FFB669;
   min-height: 200px;
   flex: 1;
   margin: 0 20px;
