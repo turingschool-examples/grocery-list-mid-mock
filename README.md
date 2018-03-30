@@ -17,13 +17,9 @@ Ie:  `1 Carrot`
 
 ### Phase Two
 
-- The submit button should be disabled if there is no content in the input field.
-- The submit button should be enabled if there is valid content in the input field.
+- The submit button should be disabled if there is no content in the input fields.
+- The submit button should be enabled if there is valid content in the input fields.
 - Each item should have a button that removes it from the page.
-
-### Phase Three
-
-- There is edit functionality
 
 ## Rubric
 
