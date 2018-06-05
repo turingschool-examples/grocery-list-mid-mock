@@ -1,4 +1,4 @@
-# Shopping List
+# Grocery List
 
 Grocery shopping sucks. Lucky for us we have a grocery list to keep track of ALL OF THE SNACKS we don't have yet but soon will.
 
